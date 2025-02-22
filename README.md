@@ -20,10 +20,11 @@ The following data files are tracked using Git LFS:
 - [Add key competition dates when available]
 
 ## Project Structure
-
+```
 ├── data/ # Data files (managed with Git LFS)
 ├── notebooks/ # Analysis notebooks
 └── README.md # This file
+```
 
 ## Getting Started
 To clone this repository and its LFS files:
